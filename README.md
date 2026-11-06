@@ -1,11 +1,24 @@
 # CHAOX-DEVBOARD
-<img width="1233" height="849" alt="image" src="https://github.com/user-attachments/assets/23e8e002-3000-410c-a873-c01ca83eb762" />
+<img width="1119" height="641" alt="image" src="https://github.com/user-attachments/assets/ad986666-308f-46b9-97e8-05d713699c39" />
 <img width="518" height="821" alt="Screenshot 2026-09-29 164450" src="https://github.com/user-attachments/assets/9510ce9b-e0b7-4542-a9ed-2f18cea4ff88" />
+<img width="1233" height="849" alt="image" src="https://github.com/user-attachments/assets/23e8e002-3000-410c-a873-c01ca83eb762" />
 
+## what is this 
+so this is a devboard which can be used to make projects this devboard is made using the rp2040 
 
-so i made a Dev board which i call CHAOX-devboard based on rp-2040. so i used the smallest size of resistors and capacitors.
+## why it exists 
+so i wanted to make a simple thing and i saw teh guide for it so i thought lets make this and it can be used to make projects 
 
-this is my first time making a micro controller so i wish that this works and hope to work with this in the future.
+## how to assemble 
+just add every comp in its place and use a hot air gun to solder them in place 
+
+## how to flash 
+1. Connect the board to your PC using a USB data cable.
+2. Hold the BOOT button while connecting the USB cable.
+3. Open File Explorer and look for the `RPI-RP2` drive.
+4. Download or compile firmware as a `.uf2` file.
+5. Drag and drop the `.uf2` file into the `RPI-RP2` drive.
+6. The board will restart and run the firmware.
 
 # BOM
 | Designation | Comment | Quantity | Estimated Price (USD) | Link |
